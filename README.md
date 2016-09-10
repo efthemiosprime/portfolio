@@ -13,6 +13,12 @@ Interactive iPad engagement for EHA 2015 conference
 ![Alt text](/screens/eha-2015-1.png)
 ![Alt text](/screens/eha-2015-2.png)
 
+## Podhaler
+The App communicates with the patient’s doctor, letting him know the patient’s dosage intake, progress, and daily activity.
+
+![Alt text](/screens/podpal-1.png)
+
+
 ## Victoza iDetail
 iDetail is a an iOS app for pharmaceutical sales that is used in conventions to connect with physicians.
 
